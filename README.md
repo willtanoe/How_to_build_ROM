@@ -1,9 +1,17 @@
-# How_to_build_ROM
+# Contact 2026
 
-  These steps for noob to build a ROM.
-  
-  Follow .md file, ask question by create a issue.
-  
-  From 1 to 8, you will have your ROM :-D.
+My old phone number has expired. Here is my new contact:
+[@MrBigN](https://t.me/mrbign)
 
-# Feel free to commit your .md file to help each others
+# How to Build ROM
+
+These are the steps for noobs to build a ROM.
+
+Follow the .md file.  
+If you have any questions, please create an issue.
+
+Follow steps 1 to 8 and you will have your ROM :-D.
+
+# Feel free to commit
+
+Feel free to commit your .md files to help each other!
